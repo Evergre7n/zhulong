@@ -1,0 +1,1 @@
+fixture: alpha=12 units; beta=8 units. Synthetic example only.
